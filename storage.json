@@ -1,3 +1,8 @@
 {
-  "hi": "hello"
+  "blinddpi": {
+    "version": "0.2.0",
+    "url": "https://github.com/user-attachments/files/33284356/Archive.tar.gz",
+    "depends": [],
+    "sha256": "1d37008822711cff8f156604217edf4b220d204691e79c4c23c308cb6dea6714"
+  }
 }
