@@ -2,7 +2,7 @@
   "blinddpi": {
     "version": "0.2.0",
     "url": "https://github.com/bypassOS-dev/BlindDPI/releases/download/v0.2.0/blinddpi.tar.gz",
-    "depends": [],
+    "depends": "",
     "sha256": "35248a14c2abfcdd3ed8aa657ec538e6b7c4d4279f2e9c23838eb73da860a600"
   }
 }
