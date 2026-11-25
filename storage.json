@@ -10,5 +10,11 @@
     "url": "https://github.com/bypassOS-dev/storage_bypassOS/releases/download/packages/fastfetch-pkg.tar.gz",
     "depends": "",
     "sha256": "be06b8d48a8e6061132d833c344a0b3057696ef96843ed4b8ac00f438b8bb2f0"
+  },
+  "micro": {
+    "version": "2.0.15",
+    "url": "https://github.com/bypassOS-dev/storage_bypassOS/releases/download/packages/micro-pkg.tar.gz",
+    "depends": "",
+    "sha256": "3b39f4e9054226037f64754f0cbec18eef60cdd070dfea585bfb75db990742e2"
   }
 }
