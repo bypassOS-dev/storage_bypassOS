@@ -4,5 +4,11 @@
     "url": "https://github.com/bypassOS-dev/BlindDPI/releases/download/v0.2.0/blinddpi.tar.gz",
     "depends": "",
     "sha256": "35248a14c2abfcdd3ed8aa657ec538e6b7c4d4279f2e9c23838eb73da860a600"
+  },
+  "fastfetch": {
+    "version": "2.71.0",
+    "url": "https://github.com/bypassOS-dev/storage_bypassOS/releases/download/packages/fastfetch-pkg.tar.gz",
+    "depends": "",
+    "sha256": "be06b8d48a8e6061132d833c344a0b3057696ef96843ed4b8ac00f438b8bb2f0"
   }
 }
