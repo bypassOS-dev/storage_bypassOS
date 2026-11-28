@@ -16,5 +16,23 @@
     "url": "https://github.com/bypassOS-dev/storage_bypassOS/releases/download/packages/micro-pkg.tar.gz",
     "depends": "",
     "sha256": "3b39f4e9054226037f64754f0cbec18eef60cdd070dfea585bfb75db990742e2"
+  },
+  "matrix": {
+    "version": "2.0",
+    "url": "https://github.com/bypassOS-dev/storage_bypassOS/releases/download/packages/matrix-2.0.tar.gz",
+    "depends": "",
+    "sha256": "63115e194dd59890e9a84bed4b58e39dd57cfcb99c1ead87a5002dd9c7ff67f2"
+  },
+  "ripgrep": {
+    "version": "16.0.0",
+    "url": "https://github.com/bypassOS-dev/storage_bypassOS/releases/download/packages/ripgrep-16.0.0-rootfs.tar.gz",
+    "depends": "",
+    "sha256": "2dd8ce09af3bf4110a5b3bae9648940840c194b674acba3578a01d4e05b1ab50"
+  },
+  "sl": {
+    "version": "5.02",
+    "url": "https://github.com/bypassOS-dev/storage_bypassOS/releases/download/packages/sl-5.02-rootfs.tar.gz",
+    "depends": "",
+    "sha256": "f48d997fcc35a8be15fa7db7904adfcc34adb83dc54214347208cf54264b5e65"
   }
 }
